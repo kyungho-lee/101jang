@@ -1,5 +1,6 @@
 # 제 1회 멀캠배 3행시  백일장
 
+
 * 언 제나 한 발 빠른 전자제품
 * 리 뷰를 하는 당신은
 * 얼 리 어답터
@@ -52,3 +53,12 @@
 * Generation of the 4th
 * Industrial revolution
 * The time to we rise
+---
+* 유미
+* 니달리
+* 티모
+---
+* Give the
+* Ice coffee
+* To me
+
