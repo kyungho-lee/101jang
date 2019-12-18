@@ -70,3 +70,10 @@
 * Going
 * Into
 * The hell - welcome to Korea
+* 언제
+* 리얼한 게임을 만들어서
+* 얼마에 팔까 고민해 보나
+---
+* Git
+* Is
+* Tired
