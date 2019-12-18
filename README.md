@@ -8,6 +8,6 @@
 * 니
 * 티
 ---
-* G
-* I
-* T
+* Grilled ch
+* Icken
+* Tender
